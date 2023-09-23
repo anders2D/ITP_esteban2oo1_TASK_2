@@ -197,7 +197,7 @@ input, select, textarea {
 	.date {
 		display: block;
 		text-transform: uppercase;
-		font-weight: 700;
+		font-weight: 800;
 		letter-spacing: 0.065em;
 		font-size: 0.9em;
 		color: #696969;
@@ -208,7 +208,7 @@ input, select, textarea {
 
 	.container {
 		margin: 0 auto;
-		max-width: calc(100% - 100px);
+		max-width: calc(200% - 200px);
 		width: 1200px;
 	}
 
