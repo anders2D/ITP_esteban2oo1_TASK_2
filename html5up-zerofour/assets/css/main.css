@@ -87,7 +87,7 @@ input, select, textarea {
 	}
 
 	body {
-		background: #303238 url("images/bg01.png");
+		background: #383830 url("images/bg01.png");
 	}
 
 		body.is-preload * {
@@ -122,7 +122,7 @@ input, select, textarea {
 		text-transform: uppercase;
 		font-weight: 800;
 		letter-spacing: 0.04em;
-		color: #404248;
+		color: #484540;
 		margin: 0 0 1em 0;
 	}
 
